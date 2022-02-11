@@ -1,0 +1,20 @@
+[
+  {
+    "userID": 133435,
+    "name": "Younes",
+    "city": "Agadir",
+    "age": 22
+  },
+   {
+    "userID": 76338435,
+    "name": "Youssef",
+    "city": "Agadir",
+    "age": 22
+  },
+   {
+    "userID": 3433566,
+    "name": "Abdellah",
+    "city": "Agadir",
+    "age": 68
+  }
+]
